@@ -1,4 +1,4 @@
 @Library('augustroboshop') _
 
-env.component="cart"
+env.component="catalogue"
 nodejs()
